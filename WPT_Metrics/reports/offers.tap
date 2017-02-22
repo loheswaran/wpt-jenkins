@@ -1,0 +1,29 @@
+Test ID : 170221_WX_3ECN
+Test URL : https://www.webpagetest.org/result/170221_WX_3ECN
+ok 1 js_count : Actual : 21, SLA : 22
+not ok 2 image_count : Actual : 7 but SLA : 6
+ok 3 css_count : Actual : 3, SLA : 8
+not ok 4 js_size : Actual : 496.857421875 but SLA : 475
+not ok 5 image_size : Actual : 26.771484375 but SLA : 24.1025390625
+ok 6 css_size : Actual : 56.7890625, SLA : 75
+# tests 6
+# pass 3
+# fail 3
+File Generated : reports/offers_svc_perf_metrics.csv
+File Generated : reports/offers_desktop_onload_assets_requests.csv
+File Generated : reports/offers_desktop_perf_metrics.csv
+File Generated : reports/offers_desktop_onload_assets_size.csv
+Test ID : 170221_HF_3ECW
+Test URL : https://www.webpagetest.org/result/170221_WX_3ECN170221_HF_3ECW
+ok 1 js_count : Actual : 18, SLA : 22
+ok 2 image_count : Actual : 4, SLA : 6
+ok 3 css_count : Actual : 3, SLA : 8
+not ok 4 js_size : Actual : 494.4150390625 but SLA : 475
+ok 5 image_size : Actual : 13.5517578125, SLA : 24.1025390625
+ok 6 css_size : Actual : 54.1806640625, SLA : 75
+# tests 6
+# pass 5
+# fail 1
+File Generated : reports/offers_mobile_onload_assets_size.csv
+File Generated : reports/offers_mobile_perf_metrics.csv
+File Generated : reports/offers_mobile_onload_assets_requests.csv

@@ -1,0 +1,76 @@
+{
+        "pages" : [
+        {
+            "name" : "home",
+            "url" : "/",
+            "breakpoints" : [
+                {
+                    "name" : "desktop",
+                    "sla" : {
+                        "js_count": 22,
+                        "image_count": 6,
+                        "css_count": 8,
+                        "js_size": 475,
+                        "image_size": 24.1025390625,
+                        "css_size": 75
+                    }
+                },
+                {
+                    "name" : "mobile",
+                    "sla" : {
+                        "js_count": 22,
+                        "image_count": 6,
+                        "css_count": 8,
+                        "js_size": 475,
+                        "image_size": 24.1025390625,
+                        "css_size": 75
+                    }
+                }
+            ],
+            "services" : [
+                {
+                    "name": "header",
+                    "url": "/svc/header"
+                }
+            ]
+        },
+        {
+            "name" : "offers",
+            "url" : "/offers/offers.jsp",
+            "breakpoints" : [
+                {
+                    "name" : "desktop",
+                    "sla" : {
+                        "js_count": 22,
+                        "image_count": 6,
+                        "css_count": 8,
+                        "js_size": 475,
+                        "image_size": 24.1025390625,
+                        "css_size": 75
+                    }
+                },
+                {
+                    "name" : "mobile",
+                    "sla" : {
+                        "js_count": 22,
+                        "image_count": 6,
+                        "css_count": 8,
+                        "js_size": 475,
+                        "image_size": 24.1025390625,
+                        "css_size": 75
+                    }
+                }
+            ],
+            "services" : [
+                {
+                    "name": "header",
+                    "url": "/svc/header"
+                },
+                {
+                    "name": "GRO",
+                    "url": "/svc/coupons/(Recommended)"
+                }
+            ]
+        }
+    ]
+}
